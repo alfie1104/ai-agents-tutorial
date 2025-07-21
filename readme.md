@@ -12,5 +12,5 @@ pip install openai
 
 ## 출처
 
-[파이썬으로 AI 에이전트 만들기 - dabidstudio-](https://github.com/dabidstudio/python-ai-agents/tree/main)
-[영상](https://www.youtube.com/watch?v=3wk45Ow3m3M)
+- [파이썬으로 AI 에이전트 만들기 - dabidstudio-](https://github.com/dabidstudio/python-ai-agents/tree/main)
+- [영상](https://www.youtube.com/watch?v=3wk45Ow3m3M)
